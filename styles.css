@@ -152,9 +152,18 @@ ul{opacity: 0;
 }
 
 
-
 .hamburger:hover + ul{ opacity: 1;
 }
+
+.hamburger-01:hover + ul{ opacity: 1;
+}
+
+.hamburger-02:hover + ul{ opacity: 1;
+}
+
+.hamburger-03:hover + ul{ opacity: 1;
+}
+
 
 ul:hover { opacity: 1;
  }
