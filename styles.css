@@ -128,7 +128,8 @@ header{
 
 ul{opacity: 0;
     position: absolute;
-    right: 75px;
+    right: 100px;
+    text-align: right;
     padding-top: 60px;
     font-family: futura-pt, sans-serif;
     margin-bottom: 20px;
@@ -146,11 +147,9 @@ ul{opacity: 0;
 
 }
 
-
 .list-hamburger {
     margin-bottom: 20px;
 }
-
 
 .hamburger:hover + ul{ opacity: 1;
 }
